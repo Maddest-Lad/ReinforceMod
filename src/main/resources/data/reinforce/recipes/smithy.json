@@ -1,0 +1,27 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "###",
+    "#S#",
+    "#L#"
+  ],
+
+    "key" : {
+        "#" : {
+        "item" : "minecraft:deepslate"
+        },
+        "S" : {
+          "item" : "minecraft:smithing_table"
+        },
+        "L" : {
+          "item" : "minecraft:lava_bucket"
+        }
+    },
+
+    "result" : {
+        "item" : "reinforce:smithy",
+        "count" : 1
+    },
+
+    "group" : "reinforce"
+}

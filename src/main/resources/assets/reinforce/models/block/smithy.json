@@ -1,0 +1,14 @@
+{
+  "parent" : "block/cube_all",
+
+  "textures": {
+    "sides": "reinforce:block/smithy_side",
+    "north": "reinforce:block/smithy_front",
+    "south": "reinforce:block/smithy_front",
+    "east": "reinforce:block/smithy_side",
+    "west": "reinforce:block/smithy_side",
+    "up": "reinforce:block/smithy_top",
+    "down": "reinforce:block/smithy_bottom",
+    "particle": "reinforce:block/smithy_side"
+  }
+}
